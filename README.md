@@ -1,4 +1,4 @@
-# Analyzing Discourse on Israel and Judaism across Reddit Communities
+# Identify and analyze Hot Topics Related to Israel and Jews
 
 ## Overview
 This project analyzes discussions across four Reddit communities focused on Israel and Judaism, using a combination of **topic modeling, named entity recognition (NER), sentiment analysis, and network analysis**. The analysis covers **October 2023 to November 2024** and focuses on **r/Israel**, **r/Jewish**, **r/Judaism**, and **r/ReformJews**, exploring how online discourse reflects **identity, political polarization, historical memory, and responses to real-world events**.
